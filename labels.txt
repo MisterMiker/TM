@@ -1,0 +1,4 @@
+0 Corazón
+1 Perro
+2 Pájaro
+3 Nada
