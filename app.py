@@ -35,7 +35,7 @@ with col1:
 with col2:
     st.image("Pájaro.jpg", width=200)
 with col3:
-    st.image("Corazón.jpg", width=200)
+    st.image("Coraazón.jpg", width=200)
 
 # Sidebar
 with st.sidebar:
